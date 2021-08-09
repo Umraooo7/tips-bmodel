@@ -17,5 +17,5 @@ Tips data set, customer data set of restaurant, plot different types of graphs, 
 * Swarn plot
 
 ### Statistical Analysis-
-Normal distribution, Outliers, Mean <code>.mean()</code>, Standard-deviation <code>std</std>
+Normal distribution, Outliers, Mean <code>.mean()</code>, Standard-deviation <code>.std()</std>, maximum value <code>.max()</code>
 
